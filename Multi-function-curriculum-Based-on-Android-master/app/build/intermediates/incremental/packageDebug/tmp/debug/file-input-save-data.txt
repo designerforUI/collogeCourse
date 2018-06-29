@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Jun 27 21:49:26 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

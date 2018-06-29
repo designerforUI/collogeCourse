@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_bg.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\menu_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_shedule.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\edit_shedule.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_bar_middle.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\top_bar_middle.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_v.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\list_v.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_load.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ver_bg.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\ver_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_load.jpg.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\load.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_bar_reg_d.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\top_bar_reg_d.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_version.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\activity_version.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_me.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\me.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_v2.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\list_v2.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top_bar_back.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\top_bar_back.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_bar.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\tab_bar.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_us.xml.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\layout\\activity_us.xml"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_background.jpg.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable\\edit_background.jpg"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\Multi-function-curriculum-Based-on-Android-master\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

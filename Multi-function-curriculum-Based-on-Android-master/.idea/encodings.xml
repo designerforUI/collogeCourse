@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/temp/DataBase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/temp/MyApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/temp/MyDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/temp/ShareMethod.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/about/AboutUsActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/androidschedule/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/editschedule/RemindActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/editschedule/SetActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/service/LauncherReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/service/RemindReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/service/SetQuietService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/zyb/org/version/VersionActivity.java" charset="UTF-8" />
+  </component>
+</project>
